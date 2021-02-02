@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/TodoItems",
+      //"launchUrl": "api/TodoItems", //so index.html runs instead of the api
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
